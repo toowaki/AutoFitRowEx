@@ -13,5 +13,7 @@ This function performs the automatic adjustment of the row height that is suitab
 If you run the "for printing"
 This function performs the automatic adjustment of the row height that is suitable for printing.
 
+![gif](http://toowaki.web.fc2.com/picture/AutoFitRowEx_img_EN.png)
+
 ## Detail 
  Please read "ReadMe.pdf".
