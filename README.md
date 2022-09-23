@@ -13,6 +13,7 @@ This function performs the automatic adjustment of the row height that is suitab
 If you run the "for printing"
 This function performs the automatic adjustment of the row height that is suitable for printing.
 
+The execution window can also be displayed with the shortcut (Ctrl + Shift + r).
 ![gif](http://toowaki.web.fc2.com/picture/AutoFitRowEx_img_EN.png)
 
 ## Detail 
